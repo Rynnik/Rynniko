@@ -1,0 +1,141 @@
+
+
+ body{
+    background-color: #92D8A9;
+ }
+
+ header{
+    background-color: #4B4E6D;
+    border-radius: 2px;
+    color: white;
+ }
+
+ article{
+    background-color: #4B4E6D;
+ }
+
+ header h1{
+    text-align: center;
+    height: 100px;
+    line-height: 75px;
+ }
+
+ article{
+    height: 600px;
+    width: 65%;
+    float: left;
+    margin-bottom: 15px;
+    padding: 10px;
+ }
+
+ aside{
+    background-color: white;
+    height: 620px;
+    width: 33%;
+    float: right;
+ }
+
+ footer{
+    background-color: #222222;
+    height: 100px;
+    width: 100%;
+    clear: both;
+    margin-top: 5px;
+ }
+
+ article h2{
+   color: #F3F3F3;
+ }
+
+ article p{
+   color: #BECEC5;
+   text-align: justify;
+ }
+
+ footer h4{
+   color: white;
+   line-height: 100px;
+   margin-left: 10px;
+ }
+
+ aside h3{
+   line-height: 50px;
+   padding-left: 15px;
+   font-size: 30px;
+ }
+
+hr{
+   margin-top: 30px;
+   margin-left: 60px;
+   margin-right: 60px;
+   margin-bottom: 30px;
+   border: 2px solid #4B4E6D;
+ }
+
+ input[type="text"]{
+   width: 360px;
+   height: 30px;
+   margin-left: 15px;
+   margin-bottom: 20px;
+ }
+
+ nav, a{
+   background-color: #4B4E6D;
+   width: 1860px;
+ }
+
+ nav{
+   padding-bottom: 20px;
+ }
+
+ a{
+   font-size: 20px;
+   margin: 0px 150px 0px 150px;
+ }
+
+ nav a{
+   text-decoration: none;
+   color: white;
+ }
+
+ h5{
+   margin-left: 20px;
+   margin-bottom: 30px;
+ }
+
+ .wybor{
+   width: 360px;
+   height: 75px;
+   background-color: #4B4E6D;
+   margin-left: 15px;
+   color: white;
+   border-radius: 5px 5px 0px 0px;
+   line-height: 75px;
+   text-align: center;
+ }
+
+ .wybor1{
+   width: 360px;
+   height: 75px;
+   background-color: #222222;
+   margin-left: 15px;
+   color: white;
+   line-height: 75px;
+   text-align: center;
+ }
+
+ input[type="checkbox"]{
+   margin-right: 20px;
+ }
+
+ button{
+   width: 360px;
+   height: 50px;
+   background-color: #4B4E6D;
+   margin-left: 15px;
+   margin-top: 20px;
+   color: white;
+   border-radius: 5px 5px 5px 5px;
+   line-height: 50px;
+   text-align: center;
+ }
